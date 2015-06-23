@@ -1,0 +1,5 @@
+lang -> en -> moodle.php
+lib -> resourcelib.php
+mod -> resource -> settings.php
+mod -> resource -> locallib.php
+mod -> resource -> view.php
